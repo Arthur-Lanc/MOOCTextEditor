@@ -1,6 +1,6 @@
 # MOOCTextEditor
 
-a powerful text editor with func:
+a powerful text editor with function:
   load text
   flesch index
   edit distance
