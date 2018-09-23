@@ -10,12 +10,9 @@
 * 自动补全
 * ...
 
-
 ### Flesch–Kincaid 易读性测试
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/Flesch–Kincaid.png)
-
 左下角的数值为Flesch index值，数据越小，阅读要求越高。可参考下表。
-
 Score | School level | Notes
 ------------ | ------------- | -------------
 100.00-90.00 |	5th grade |	Very easy to read. Easily understood by an average 11-year-old student.
@@ -26,14 +23,14 @@ Score | School level | Notes
 50.0–30.0 |	College |	Difficult to read.
 30.0–0.0 |	College graduate |	Very difficult to read. Best understood by university graduates.
 
-
 ### 编辑距离
 动态生成叶子为单词的树进行广度优先搜素，寻找两单词之间的路径。
-
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/wordpath.png)
-
 
 ### 生成Markov 文本
 生成马尔科夫文本，模仿原作者的风格。
-
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/genmarkovtxt.png)
+
+### 拼写检查与自动补全
+![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/spellingsuggest.png)
+![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/autocomplete.png)
