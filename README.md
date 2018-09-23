@@ -1,4 +1,4 @@
-# UCSDTextEditor
+# Text-Editor-UCSD
 ###### cooperate with UC San Diego Intermediate Software Development MOOC team
 
 一个功能丰富的文本编辑器
@@ -11,7 +11,7 @@
 * ...
 
 ### Flesch–Kincaid 易读性测试
-![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/Flesch–Kincaid.png)
+![alt text](https://github.com/Arthur-Lanc/Text-Editor-UCSD/blob/master/Flesch–Kincaid.png)
 左下角的数值为Flesch index值，数值越小，阅读要求越高。可参考下表。
 
 Score | School level | Notes
@@ -26,14 +26,14 @@ Score | School level | Notes
 
 ### 编辑距离
 动态生成叶子为单词的树进行广度优先搜索，寻找两单词之间的路径。
-![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/wordpath.png)
+![alt text](https://github.com/Arthur-Lanc/Text-Editor-UCSD/blob/master/wordpath.png)
 
 ### 生成Markov 文本
 生成马尔科夫文本，模仿原作者的风格。
-![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/genmarkovtxt.png)
+![alt text](https://github.com/Arthur-Lanc/Text-Editor-UCSD/blob/master/genmarkovtxt.png)
 
 ### 拼写检查与自动补全
-![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/spellingsuggest.png)
-![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/autocomplete.png)
+![alt text](https://github.com/Arthur-Lanc/Text-Editor-UCSD/blob/master/spellingsuggest.png)
+![alt text](https://github.com/Arthur-Lanc/Text-Editor-UCSD/blob/master/autocomplete.png)
 
 :rocket:
