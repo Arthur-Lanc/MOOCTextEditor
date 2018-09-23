@@ -11,8 +11,8 @@
 * ...
 
 ### Flesch–Kincaid 易读性测试
-![alt text](https://github.com/Arthur-Lanc/Text-Editor-UCSD/blob/master/Flesch–Kincaid.png)
 左下角的数值为Flesch index值，数值越小，阅读要求越高。可参考下表。
+![alt text](https://github.com/Arthur-Lanc/Text-Editor-UCSD/blob/master/Flesch–Kincaid.png)
 
 Score | School level | Notes
 ------------ | ------------- | -------------
