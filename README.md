@@ -28,6 +28,12 @@ Score | School level | Notes
 
 
 ### 编辑距离
-动态生成叶子为单词的树进行广度优先搜素，寻找两单词之间的路径
+动态生成叶子为单词的树进行广度优先搜素，寻找两单词之间的路径。
 
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/wordpath.png)
+
+
+### 生成Markov 文本
+生成马尔科夫文本，模仿原作者的风格。
+
+![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/genmarkovtxt.png)
