@@ -12,7 +12,7 @@
 
 ### Flesch–Kincaid 易读性测试
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/Flesch–Kincaid.png)
-左下角的数值为Flesch index值，数据越小，阅读要求越高。可参考下表。
+左下角的数值为Flesch index值，数值越小，阅读要求越高。可参考下表。
 
 Score | School level | Notes
 ------------ | ------------- | -------------
@@ -25,7 +25,7 @@ Score | School level | Notes
 30.0–0.0 |	College graduate |	Very difficult to read. Best understood by university graduates.
 
 ### 编辑距离
-动态生成叶子为单词的树进行广度优先搜素，寻找两单词之间的路径。
+动态生成叶子为单词的树进行广度优先搜索，寻找两单词之间的路径。
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/wordpath.png)
 
 ### 生成Markov 文本
