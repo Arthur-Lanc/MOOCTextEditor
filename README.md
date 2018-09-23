@@ -35,3 +35,5 @@ Score | School level | Notes
 ### 拼写检查与自动补全
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/spellingsuggest.png)
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/autocomplete.png)
+
+:rocket:
