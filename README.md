@@ -13,6 +13,7 @@
 ### Flesch–Kincaid 易读性测试
 ![alt text](https://github.com/Arthur-Lanc/UCSDTextEditor/blob/master/Flesch–Kincaid.png)
 左下角的数值为Flesch index值，数据越小，阅读要求越高。可参考下表。
+
 Score | School level | Notes
 ------------ | ------------- | -------------
 100.00-90.00 |	5th grade |	Very easy to read. Easily understood by an average 11-year-old student.
